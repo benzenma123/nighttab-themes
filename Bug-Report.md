@@ -1,1 +1,1 @@
-If theres any error in the JSON file, right the error under this line
+If theres any error in the JSON file, write the error under this line
